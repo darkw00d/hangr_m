@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+
+#screen {
+	width: 360px;
+	height: 640px;
+	position: relative;
+}
+body {
+font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: blue;
+}
+#toolbar {
+	height: 12.5%;
+	width: 100%;
+	background-color: aquamarine;
+	
+}
+
+#burger{height:100% ;
+width: 25% ;
+background-color:royalblue; 
+	float: left;}
+#my_collection{ }
+#my_account{ }
+#my_friends{ }
+#logo{height:100% ;
+width: 50% ;
+background-color:paleturquoise;
+	float: left;}
+#log_sign{height:100% ;
+width: 25% ;
+background-color:blueviolet;
+	float: left; }
+#banner{ height:25% ;
+width: 100% ;
+background-color:yellowgreen;
+	float: left; }
+#cta{ }
+#main{height:50% ;
+width: 100% ;
+background-color:forestgreen;
+	float: left;}
+#left{height:100% ;
+width: 50% ;
+background-color:olivedrab;
+	float: left; }
+#lefthead{ height:20% ;
+width: 98% ;
+background-color:darkgreen;
+	float: left;}
+#lefttop{ height:20% ;
+width: 98% ;
+background-color:grey;
+	float: left;}
+#lefthigh_leg{height:20% ;
+width: 98% ;
+background-color:khaki;
+	float: left; }
+#leftlow_leg{ height:20% ;
+width: 98% ;
+background-color:honeydew;
+	float: left;}
+#leftshoe{height:20% ;
+width: 98% ;
+background-color:dimgray;
+	float: left; }
+#right{height:100% ;
+width: 50% ;
+background-color:olive;
+	float: left; }
+#righthead{height:20% ;
+width: 98% ;
+background-color:sandybrown;
+	float: right; }
+#righttop{height:20% ;
+width: 98% ;
+background-color:darksalmon;
+	float: right; }
+#righthigh_leg{height:20% ;
+width: 98% ;
+background-color:aliceblue;
+	float: right; }
+#rightlow_leg{height:20% ;
+width: 98% ;
+background-color:tomato;
+	float: right; }
+#rightshoe{height:20% ;
+width: 98% ;
+background-color:thistle;
+	float: right; }
+#extra_bar{height:12.5% ;
+width: 100% ;
+background-color:goldenrod;
+	float: right; }
+
+

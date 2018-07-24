@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+
+#screen {
+	width: 360px;
+	height: 640px;
+	position: relative;
+}
+body {
+font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	color: blue;
+}
+
+ #toolbar{
+	width: 100%;
+	height: 12.5%;
+	background-color: #CDBEBE;
+}
+
+#body #toolbar #burger{ }
+#body #toolbar #burger #my_collection{ }
+#body #toolbar #burger #my_account{ }
+#body #toolbar #burger #my_friends{ }
+#body #toolbar #logo{ }
+#body #toolbar #log_sign #collapsed{ }
+#body #toolbar #log_sign #expanded{ }
+#body #main #banner{ }
+#body #main #banner #cta{ }
+#body #main #image_panel #left #head{ }
+#body #main #image_panel #left #top{ }
+#body #main #image_panel #left #high_leg{ }
+#body #main #image_panel #left #low_leg{ }
+#body #main #image_panel #left #shoe{ }
+#body #main #image_panel #right #head{ }
+#body #main #image_panel #right #top{ }
+#body #main #image_panel #right #high_leg{ }
+#body #main #image_panel #right #low_leg{ }
+#body #main #image_panel #right #shoe{ }
+#body #main #extra_bar{ }
+
+

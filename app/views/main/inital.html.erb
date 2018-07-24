@@ -1,0 +1,21 @@
+<h1>Main#inital</h1>
+<p>Find me in app/views/main/inital.html.erb</p>
+
+ <table>
+    <tr>
+      <th>Username</th>
+      <th>password</th>
+      <th>Email</th>
+     
+    </tr>
+    <% @users.each do |r| %>
+  
+      <td><%= r.username %></td>
+      <td><%= r.password %></td>
+      <td><%= r.email %></td>
+
+     
+
+    <% end %>
+  </table>
+
